@@ -5,7 +5,7 @@
 
         <div class="col-lg-4 col-12 my-5 d-flex justify-content-center align-items-center">
           <div class="card" style="width: 18rem;">
-            <img src="images/love-story.svg" class="card-img-top" alt="...">
+            <img src="/images/love-story.svg" class="card-img-top" alt="...">
             <div class="card-body text-center">
               <p class="card-text">Secret Message </p>
               <button type="button" class="btn btn-infos" @click="selectedNumber('sm' + 1)" data-toggle="modal"
@@ -15,7 +15,7 @@
         </div>
         <div class="col-lg-4 col-12 my-5 d-flex justify-content-center align-items-center">
           <div class="card" style="width: 18rem;">
-            <img src="images/love-story.svg" class="card-img-top" alt="...">
+            <img src="/images/love-story.svg" class="card-img-top" alt="...">
             <div class="card-body text-center">
               <p class="card-text">Secret Message 2</p>
               <button type="button" class="btn btn-infos" @click="selectedNumber('sm' + 2)" data-toggle="modal"
@@ -25,7 +25,7 @@
         </div>
         <div class="col-lg-4 col-12 my-5 d-flex justify-content-center align-items-center">
           <div class="card" style="width: 18rem;">
-            <img src="images/love-story.svg" class="card-img-top" alt="...">
+            <img src="/images/love-story.svg" class="card-img-top" alt="...">
             <div class="card-body text-center">
               <p class="card-text">Secret Message 3</p>
               <button type="button" class="btn btn-infos" @click="selectedNumber('sm' + 3)" data-toggle="modal"
@@ -35,7 +35,7 @@
         </div>
         <div class="col-lg-4 col-12 my-5 d-flex justify-content-center align-items-center">
           <div class="card" style="width: 18rem;">
-            <img src="images/love-story.svg" class="card-img-top" alt="...">
+            <img src="/images/love-story.svg" class="card-img-top" alt="...">
             <div class="card-body text-center">
               <p class="card-text">Secret Message 4</p>
               <button type="button" class="btn btn-infos" @click="selectedNumber('sm' + 4)" data-toggle="modal"
@@ -45,7 +45,7 @@
         </div>
         <div class="col-lg-4 col-12 my-5 d-flex justify-content-center align-items-center">
           <div class="card" style="width: 18rem;">
-            <img src="images/love-story.svg" class="card-img-top" alt="...">
+            <img src="/images/love-story.svg" class="card-img-top" alt="...">
             <div class="card-body text-center">
               <p class="card-text">Secret Message 5</p>
               <button type="button" class="btn btn-infos" @click="selectedNumber('sm' + 5)" data-toggle="modal"
@@ -55,7 +55,7 @@
         </div>
         <div class="col-lg-4 col-12 my-5 d-flex justify-content-center align-items-center">
           <div class="card" style="width: 18rem;">
-            <img src="images/love-story.svg" class="card-img-top" alt="...">
+            <img src="/images/love-story.svg" class="card-img-top" alt="...">
             <div class="card-body text-center">
               <p class="card-text">Secret Message 6</p>
               <button type="button" class="btn btn-infos" @click="selectedNumber('sm' + 6)" data-toggle="modal"
