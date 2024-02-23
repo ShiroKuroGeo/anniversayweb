@@ -31,7 +31,7 @@
     <div class="container" style="margin-top: -140px">
       <div class="row">
         <div class="col-md-6 content align-left col-lg-6">
-          <img src="images/love-letter.svg" class="img-fluid">
+          <img src="/images/love-letter.svg" class="img-fluid">
         </div>
         <div class="col-md-6 content align-left col-lg-6">
           <h1 class="mbr-section-title align-left mbr-white mbr-bold pb-3 mbr-fonts-style display-1">Happy Anniversary,
@@ -63,7 +63,7 @@
         </div>
         <div class="col-md-12 col-lg-6 img-col">
           <div class="mbr-figure">
-            <img src="images/our.jpg" alt="Mobirise" class="shadow rounded">
+            <img src="/images/our.jpg" alt="Mobirise" class="shadow rounded">
           </div>
         </div>
       </div>
@@ -221,7 +221,7 @@
                     <div class="item_overlay" data-toggle="modal"></div>
                     <div class="galleryItem" data-toggle="modal">
                       <div class="style_overlay"></div>
-                      <div class="img_wraper"><img src="images/1.jpg" alt="" title=""></div>
+                      <div class="img_wraper"><img src="/images/1.jpg" alt="" title=""></div>
                     </div>
                   </div>
                   <div class="mbr-gallery-item" data-tags="Awesome" data-slide-to="0" data-seller="false" data-price="80"
@@ -229,7 +229,7 @@
                     <div class="item_overlay" data-toggle="modal"></div>
                     <div class="galleryItem" data-toggle="modal">
                       <div class="style_overlay"></div>
-                      <div class="img_wraper"><img src="images/2.jpg" alt="" title=""></div>
+                      <div class="img_wraper"><img src="/images/2.jpg" alt="" title=""></div>
                     </div>
                   </div>
                   <div class="mbr-gallery-item" data-tags="Awesome" data-slide-to="0" data-seller="false" data-price="80"
@@ -237,7 +237,7 @@
                     <div class="item_overlay" data-toggle="modal"></div>
                     <div class="galleryItem" data-toggle="modal">
                       <div class="style_overlay"></div>
-                      <div class="img_wraper"><img src="images/3.jpg" alt="" title=""></div>
+                      <div class="img_wraper"><img src="/images/3.jpg" alt="" title=""></div>
                     </div>
                   </div>
                   <div class="mbr-gallery-item" data-tags="Awesome" data-slide-to="0" data-seller="false" data-price="80"
@@ -245,7 +245,7 @@
                     <div class="item_overlay" data-toggle="modal"></div>
                     <div class="galleryItem" data-toggle="modal">
                       <div class="style_overlay"></div>
-                      <div class="img_wraper"><img src="images/4.jpg" alt="" title=""></div>
+                      <div class="img_wraper"><img src="/images/4.jpg" alt="" title=""></div>
                     </div>
                   </div>
                   <div class="mbr-gallery-item" data-tags="Awesome" data-slide-to="0" data-seller="false" data-price="80"
@@ -253,7 +253,7 @@
                     <div class="item_overlay" data-toggle="modal"></div>
                     <div class="galleryItem" data-toggle="modal">
                       <div class="style_overlay"></div>
-                      <div class="img_wraper"><img src="images/5.jpg" alt="" title=""></div>
+                      <div class="img_wraper"><img src="/images/5.jpg" alt="" title=""></div>
                     </div>
                   </div>
                   <div class="mbr-gallery-item" data-tags="Awesome" data-slide-to="0" data-seller="false" data-price="80"
@@ -261,7 +261,7 @@
                     <div class="item_overlay" data-toggle="modal"></div>
                     <div class="galleryItem" data-toggle="modal">
                       <div class="style_overlay"></div>
-                      <div class="img_wraper"><img src="images/6.jpg" alt="" title=""></div>
+                      <div class="img_wraper"><img src="/images/6.jpg" alt="" title=""></div>
                     </div>
                   </div>
 
